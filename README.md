@@ -1,0 +1,2 @@
+# gsuid_install
+GenshinUID_AutoInstall
